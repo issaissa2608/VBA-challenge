@@ -18,4 +18,4 @@ Created a script that loops through all the stocks for one year and outputs the 
 
 Added functionality to my script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
 
-Made appropriate adjustments to my VBA script to enable it to run on every worksheet (that is, every year) at
+Made appropriate adjustments to my VBA script to enable it to run on every worksheet (that is, every year) at once
